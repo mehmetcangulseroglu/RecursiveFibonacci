@@ -1,3 +1,3 @@
-Ana fonksiyon(public static void main) içinde çağrılan sayıya göre o adımdaki fibonacci elemanını getiren program.
-Örneğin ; 
-fibo(5)=5.sırada hangi fibonacci elemanı var onu getir.
+The program that returns the Fibonacci element in that step according to the number called in the main function (public static void main).
+For example ; 
+fibo(5)=Get which Fibonacci element is in the 5th row.
